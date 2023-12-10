@@ -87,9 +87,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST") {
             <button type="submit" name="send" style="border: solid red;">Supprimer</button>
         </form>
     </div>
-    <?php
     
-    ?>
 </body>
 
 </html>
